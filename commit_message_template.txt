@@ -1,0 +1,5 @@
+Issue: #<issue_number>
+Title: <issue_title>
+Link: <link to github issue>
+Description: <description (optional, but highly recommended if title is not self-explanatory)
+Pull Request By: <github username>
