@@ -3,3 +3,14 @@ Title: <issue_title>
 Link: <link to github issue>
 Description: <description (optional, but highly recommended if title is not self-explanatory)
 Pull Request By: <github username>
+
+
+Example
+-------
+
+Issue: #1
+Title: Story to explain the usage of static.
+Link: https://github.com/GauthamM-official/java-stories/issues/1
+Description: Usage of static explained using two friends having their own individual cash in hand along with a common emergency fund.
+Pull Request By: GauthamM-official
+
